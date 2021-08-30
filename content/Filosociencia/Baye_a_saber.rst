@@ -89,7 +89,7 @@ Suena bastante razonable, ¿no cierto? El primero es casi obligatorio, porque qu
 
 Luego sigue una demostración extensa que **ruego** lean o pispeen, de lo que se conoce como los teoremas de Cox (ejejej). Capítulo 1 y 2 del libro que ya mencioné. Pero al final del día, lo que se encuentra es que existe una *función* :math:`P` de nuestras asignaciones de plausibilidad :math:`A`, que satisface las siguientes cosas
 
-.. :math:
+.. math::
 
    P(A)+P(¬A)=1,
    P(AB)=P(A)P(B|A)
@@ -115,18 +115,18 @@ Cuentas salteables
 
 En particular, nuestro Bayergh hizo la siguiente cuenta. Para él todos los días eran equivalentes, entonces le puso una probabilidad :math:`f` a que salga el sol cualquier día. Él vio al sol salir :math:`N` veces, y se preguntó, ¿cuál es la probabilidad de eso? Bueno, la probabilidad de que el sol salga dos días seguidos termina siendo el producto de las probabilidades para cada día, o sea, :math:`f^2`. La de que salga :math:`N` días seguidos será :math:`f^N`. Este es el *modelo* de Bayergh.
 
-Entonces, si la probabilidad :math:`f` de que salga el sol fuera :math:`1/2`, y Bayergh vivió 10 años, tendríamos una probabilidad de :math:`1/2^3650`, que nos da... Cero, según Python. O sea, un número re re chiquitito. ¿Qué significa esto? Que la hipótesis esta en particular es inverosímil; no se condice con los datos. Bayergh entonces se golpea la cabeza un rato hasta que pienza... ¡Ajá! No necesito quedarme con la hipótesis :math:`f=1/2` en particular. Por cada valor distinto que le ponga a :math:`f` yo tengo una hipótesis distinta. Y yo quiero averiguar cuál hipótesis, o sea, qué valor de :math:`f`, se condice mejor con los datos. En otras palabras, si con :math:`D` represento mis datos, y con :math:`H` una hipótesis, *la probabilidad de la hipótesis :math:`H` dados los datos :math:`D` es lo que me interesa*.
+Entonces, si la probabilidad :math:`f` de que salga el sol fuera :math:`1/2`, y Bayergh vivió 10 años, tendríamos una probabilidad de :math:`1/2^3650`, que nos da... Cero, según Python. O sea, un número re re chiquitito. ¿Qué significa esto? Que la hipótesis esta en particular es inverosímil; no se condice con los datos. Bayergh entonces se golpea la cabeza un rato hasta que pienza... ¡Ajá! No necesito quedarme con la hipótesis :math:`f=1/2` en particular. Por cada valor distinto que le ponga a :math:`f` yo tengo una hipótesis distinta. Y yo quiero averiguar cuál hipótesis, o sea, qué valor de :math:`f`, se condice mejor con los datos. En otras palabras, si con :math:`D` represento mis datos, y con :math:`H` una hipótesis, la probabilidad de la hipótesis :math:`H` dados los datos :math:`D` es lo que me interesa.
 
 En ese caso, el teorema de Baye...rgh dice,
 
-.. :math:
+.. math::
 
    P(DH)=P(D)P(H|D)
    P(DH)=P(H)P(D|H)
 
 Porque ni :math:`D` ni :math:`H` tiene un estatus privilegiado, puedo plantear dos igualdades distintas, invirtiendo sus roles. Y acá está lo lindo: yo ya sé calcular la probabilidad de los datos dada mi hipótesis, como hice arriba. O sea, tengo :math:`P(D|H)` y quiero :math:`P(H|D)`. Entonces, mezclando esas dos ecuaciones, obtengo
 
-.. :math:
+.. math::
 
    P(H|D)=P(D|H)P(H)/P(D)
 
@@ -136,7 +136,7 @@ Lindo, ¿no? hay tres números a la derecha. :math:`P(D|H)` es el modelo, eso lo
 
 Y listo, esto te termina dando que la probabilidad de los datos dada cada hipótesis, en este caso, es
 
-.. :math:
+.. math::
 
    P(f|N)=Nf^N
 
