@@ -5,7 +5,7 @@ Correntada de aire frezco
 :tags: música, sentimientos
 :category: Libre
 :author: Bru
-:slug: fria-noche-de-invierno
+:slug: correntada-de-aire-frezco
 :lang: ñl
 
 *“Quizás estoy viejo y cansado, pero creo que las chances de entender qué está pasando realmente son tan absurdamente remotas que lo único que queda hacer es decir “No te preocupes por eso”, y mantenerte ocupado. Prefiero mil veces ser feliz que estar en lo correcto cualquier día.”* - Slartibartfast, en la Guía del Autoestopista Galáctico.
