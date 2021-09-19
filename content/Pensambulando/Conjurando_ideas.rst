@@ -1,7 +1,7 @@
 Conjurando ideas
 ################
 
-:date: 2021-09-18
+:date: 2021-09-19
 :tags: divague, filosofía
 :category: Pensambulando
 :author: Bru
@@ -52,9 +52,9 @@ Evocando cosas
 
 ¿Por qué digo cosas? porque no necesariamente reconstruí la idea que quería reconstruír. Y... es todo un arte. Hay una barrera idiomática que hace que lo que mi cerebro procese como tal idea, ni siquiera sea necesariamente reconstruíble en el tuyo. De hecho, esa barrera (creo que le llaman cráneo) para mí es esencial para definir al individuo, y por tanto a esa *una y sólo una conciencia*. ¿Tendrá la gente con múltiples personalidades barreras efectivas en su cerebro? Después de todo, la inaccesibilidad mútua de la información capaz ayuda mucho a separar la cosa.
 
-Bue, volviendo al tema (si te quedó picando, contactame para flasharla un rato, tenés la página de contacto ahí dando vueltas (?)). Todo este post arrancó hablando de que me comunico como el orto. ¿O lo hago realmente?¿Es mi propósito reconstruír en vos una copia exacta de lo que yo pienso, cada vez que hablo? Ahí está el tema. No. Lo que a mí más me divierte es armar un coliseo de conceptos.
+Bue, volviendo al tema (si te quedó picando, contactame para flasharla un rato, tenés la página de contacto ahí dando vueltas (?)). Todo este post arrancó hablando de que me comunico como el orto. ¿O lo hago realmente?¿Es mi propósito reconstruír en vos una copia exacta de lo que yo pienso, cada vez que hablo? Ahí está el tema. No. Lo que a mí más me divierte es armar un coliseo de conceptos. U otras cosas... A veces ni siquiera el lenguaje verbal sea el mejor medio, ¿no? Capaz querés evocar sentimientos, capaz querés que la otra persona entienda qué puede conseguir de vos sin que se lo digas.
 
-Si cuando yo hablara procurara que se entendiera exactamente lo que digo y se tomara como una afirmación dura, tendría que tomarme el enorme trabajo de *estar en lo cierto al hablar*. Y, francamente, cualquier persona que crea estar en lo cierto está equivocada. De eso iba Sócrates cuando decía que posta no sabía nada, pero que al menos entendía eso, y eso ya era un gran paso. El tipo la tenía clara.
+El lenguaje verbal específico es, quizás, la herramienta suprema para comunicar ideas específicas. Pero no es necesariamente la herramienta que quieras usar, o el objetivo que quieras corregir. Si cuando yo hablara procurara que se entendiera exactamente lo que digo y se tomara como una afirmación dura, tendría que tomarme el enorme trabajo de *estar en lo cierto al hablar*. Y, francamente, cualquier persona que crea estar en lo cierto está equivocada. De eso iba Sócrates cuando decía que posta no sabía nada, pero que al menos entendía eso, y eso ya era un gran paso. El tipo la tenía clara.
 
 *“La verdad es lo que sea que sobreviva los fuegos purificadores del escepticismo, luego de que hayan carbonizado el error y la superstición. El crecimiento sano de la civilización depende del escepticismo más de lo que lo hace de la fe.”*, Oliver Wendell Holmes.
 
